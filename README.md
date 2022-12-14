@@ -7,7 +7,6 @@ hey :D just want to tell you that you're awesome! okay, have a great day
 > [SASS/SCSS](https://sass-lang.com/) <br>
 > [Tailwind CSS](https://tailwindcss.com/)
 
-<br>
 
 #### ✨ things i'm learning 
 > [Vue.js](https://vuejs.org/) <br>
