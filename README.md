@@ -13,4 +13,5 @@ hey :D just want to tell you that you're awesome! okay, have a great day
 > [Svelte](https://svelte.dev/) <br>
 > [SolidJS](https://www.solidjs.com/) <br>
 > [Qwik](https://qwik.builder.io/) <br>
-> [Alpine.js](https://alpinejs.dev/)
+> [Alpine.js](https://alpinejs.dev/) <br>
+> TypeScript
