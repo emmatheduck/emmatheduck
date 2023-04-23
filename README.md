@@ -1,6 +1,6 @@
-hey :D just want to tell you that you're awesome! okay, have a great day
+Hey! I'm a frontend web developer who likes tea and creating free apps for people to use. Thanks for looking at my profile, and have a great day!
 
-#### 💕 things i know 
+### **💕 things i know**
 > CSS <br>
 > HTML <br>
 > JavaScript (what a nightmare) <br>
@@ -8,7 +8,7 @@ hey :D just want to tell you that you're awesome! okay, have a great day
 > [Tailwind CSS](https://tailwindcss.com/)
 
 
-#### ✨ things i'm learning 
+### **✨ things i'm learning**
 > [Vue.js](https://vuejs.org/) <br>
 > [Svelte](https://svelte.dev/) <br>
 > [Sveltekit](https://kit.svelte.dev) <br>
@@ -17,6 +17,6 @@ hey :D just want to tell you that you're awesome! okay, have a great day
 > [Alpine.js](https://alpinejs.dev/) <br>
 > TypeScript
 
-#### 🦀 projects & things i've made
+### **🦀 projects & things i've made**
 > [Moonlight](https://moonlight-planner.netlify.app) <br>
 > A writing and worldbuilding app to help writers & other creatives
