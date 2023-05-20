@@ -15,9 +15,9 @@ Hey! I'm a frontend web developer who likes tea and creating free apps for peopl
 > [SolidJS](https://www.solidjs.com/) <br>
 > [Qwik](https://qwik.builder.io/) <br>
 > [Alpine.js](https://alpinejs.dev/) <br>
-> TypeScript
-> PocketBase 
-> Supabase
+> TypeScript <br>
+> PocketBase <br>
+> Supabase <br>
 > Firebase
 
 ### **🦀 projects & things i've made**
