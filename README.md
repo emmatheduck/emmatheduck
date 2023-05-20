@@ -16,6 +16,9 @@ Hey! I'm a frontend web developer who likes tea and creating free apps for peopl
 > [Qwik](https://qwik.builder.io/) <br>
 > [Alpine.js](https://alpinejs.dev/) <br>
 > TypeScript
+> PocketBase 
+> Supabase
+> Firebase
 
 ### **🦀 projects & things i've made**
 > [Moonlight](https://moonlight-planner.netlify.app) <br>
