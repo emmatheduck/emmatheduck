@@ -5,7 +5,7 @@ Hey! I'm a frontend web developer who likes tea and creating free apps for peopl
 > HTML <br>
 > JavaScript (what a nightmare) <br>
 > [SASS/SCSS](https://sass-lang.com/) <br>
-> [Tailwind CSS](https://tailwindcss.com/)
+> [Tailwind CSS](https://tailwindcss.com/) <br>
 > TypeScript <br>
 > [Sveltekit](https://kit.svelte.dev) <br>
 
