@@ -3,10 +3,10 @@ Hey! I'm a frontend web developer who likes tea and creating free apps for peopl
 ### **💕 things i know / am pretty good at**
 > CSS <br>
 > HTML <br>
-> JavaScript (what a nightmare) <br>
+> JavaScript <br>
+> TypeScript <br>
 > [SASS/SCSS](https://sass-lang.com/) <br>
 > [Tailwind CSS](https://tailwindcss.com/) <br>
-> TypeScript <br>
 > [Sveltekit](https://kit.svelte.dev) <br>
 
 
