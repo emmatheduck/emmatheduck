@@ -8,6 +8,7 @@ Hey! I'm a frontend web developer who likes tea and creating free apps for peopl
 > [SASS/SCSS](https://sass-lang.com/) <br>
 > [Tailwind CSS](https://tailwindcss.com/) <br>
 > [Sveltekit](https://kit.svelte.dev) <br>
+> [PocketBase](https://pocketbase.io) - Database / Backend <br>
 
 
 ### **✨ things i'm learning**
@@ -15,11 +16,11 @@ Hey! I'm a frontend web developer who likes tea and creating free apps for peopl
 > [SolidJS](https://www.solidjs.com/) <br>
 > [Qwik](https://qwik.builder.io/) <br>
 > [Alpine.js](https://alpinejs.dev/) <br>
-> [PocketBase](https://pocketbase.io) - Database / Backend <br>
 > [Supabase](https://supabase.com) - Database / Backend <br>
 > [Firebase](https://firebase.google.com/) - Database / Backend <br>
 > [Tauri](https://tauri.app) - Desktop Development <br>
-> [Rust](https://rustlang.org)
+> [Rust](https://rustlang.org) <br>
+> [AppWrite](https://appwrite.io) - Database / Backend
 
 ### **🦀 projects & things i've made**
 > [Moonlight](https://moonlight-planner.netlify.app) <br>
@@ -30,5 +31,3 @@ Hey! I'm a frontend web developer who likes tea and creating free apps for peopl
 
 > [16:6 Heritage Trust (WORK IN PROGRESS)](https://16-6.org) <br>
 > A website built around the 16:6 Heritage Trust in South Australia.
-
-Avatar is by [Angela He](https://angelahe.dev), I don't claim any credit for it, it's entirely her amazing work.
