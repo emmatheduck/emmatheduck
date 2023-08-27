@@ -1,4 +1,6 @@
-Hey! I'm a frontend web developer who likes tea and creating free apps for people to use. Thanks for looking at my profile, and have a great day!
+<p align="center"> 
+  Hey! I'm Emma, a web developer who likes tea and creating apps that everyone can use. Thanks for checking out my profile, and have a great day!
+</p>
 
 ### **💕 things i know**
 > CSS <br>
@@ -6,8 +8,9 @@ Hey! I'm a frontend web developer who likes tea and creating free apps for peopl
 > JavaScript <br>
 > [TypeScript](https://www.typescriptlang.org/) <br>
 > [SASS/SCSS](https://sass-lang.com/) <br>
-> [Tailwind CSS](https://tailwindcss.com/) <br>
-> [Sveltekit](https://kit.svelte.dev) <br>
+> [Tailwind CSS](https://tailwindcss.com/) <be>
+> [Svelte](https://svelte.dev) <be>
+> [SvelteKit](https://kit.svelte.dev) <br>
 > [PocketBase](https://pocketbase.io) - Database / Backend <br>
 
 
@@ -20,14 +23,12 @@ Hey! I'm a frontend web developer who likes tea and creating free apps for peopl
 > [Firebase](https://firebase.google.com/) - Database / Backend <br>
 > [Tauri](https://tauri.app) - Desktop Development <br>
 > [Rust](https://rustlang.org) <br>
-> [AppWrite](https://appwrite.io) - Database / Backend
+> [AppWrite](https://appwrite.io) - Database / Backend <br>
+
 
 ### **🦀 projects & things i've made**
-> [Moonlight](https://moonlight-planner.netlify.app) <br>
-> A writing and worldbuilding app to help writers & other creatives.
+> [moonlight](https://moonlight-planner.netlify.app) <br>
+> A world-building tool for writers and other creatives to organise their characters, locations, countries, and more, all in a convenient and easy-to-use website.
 
 > [calm life](https://calmlife.netlify.app) <br>
-> A small set of mental health tools to help people out.
-
-> [16:6 Heritage Trust (WORK IN PROGRESS)](https://16-6.org) <br>
-> A website built around the 16:6 Heritage Trust in South Australia.
+> A small set of mental health tools to help people out. Currently consists of a helplines page and coming soon, resources for depression, anxiety and more.
