@@ -3,19 +3,19 @@
 </p>
 
 ### **💕 things i know**
-> CSS <br>
 > HTML <br>
+> CSS <br>
 > JavaScript <br>
-> [TypeScript](https://www.typescriptlang.org/) <br>
-> [SASS/SCSS](https://sass-lang.com/) <br>
-> [Tailwind CSS](https://tailwindcss.com/) <br>
+> [TypeScript](https://typescriptlang.org) <br>
+> [SASS/SCSS](https://sass-lang.com) <br> 
+> [Tailwind CSS](https://tailwindcss.com) <br>
 > [Svelte](https://svelte.dev) & [SvelteKit](https://kit.svelte.dev) <br>
 > [PocketBase](https://pocketbase.io) - Database / Backend <br>
 
 
 ### **✨ things i'm learning**
 > [Vue.js](https://vuejs.org/) <br>
-> [SolidJS](https://www.solidjs.com/) <br>
+> [SolidJS](https://solidjs.com/) <br>
 > [Qwik](https://qwik.builder.io/) <br>
 > [Alpine.js](https://alpinejs.dev/) <br>
 > [Supabase](https://supabase.com) - Database / Backend <br>
