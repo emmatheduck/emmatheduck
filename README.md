@@ -8,9 +8,8 @@
 > JavaScript <br>
 > [TypeScript](https://www.typescriptlang.org/) <br>
 > [SASS/SCSS](https://sass-lang.com/) <br>
-> [Tailwind CSS](https://tailwindcss.com/) <be>
-> [Svelte](https://svelte.dev) <be>
-> [SvelteKit](https://kit.svelte.dev) <br>
+> [Tailwind CSS](https://tailwindcss.com/) <br>
+> [Svelte](https://svelte.dev) & [SvelteKit](https://kit.svelte.dev) <br>
 > [PocketBase](https://pocketbase.io) - Database / Backend <br>
 
 
