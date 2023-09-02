@@ -27,7 +27,15 @@
 
 ### **🦀 projects & things i've made**
 > [moonlight](https://moonlight-planner.netlify.app) <br>
-> A world-building tool for writers and other creatives to organise their characters, locations, countries, and more, all in a convenient and easy-to-use website.
+> A world-building tool for writers and other creatives to organise their characters, locations, countries, and many more tools, all built into a convenient, free, and easy-to-use website. <br>
+> Built using **SvelteKit**, **TypeScript**, **SCSS**, and **AppWrite**
+
+> [typewriter](https://typewriterr.netlify.app) <br>
+> A website to share your stories with the world, akin to Wattpad or Quotev. <br>
+> Built with **SvelteKit**, **TypeScript**, and **PocketBase**.
 
 > [calm life](https://calmlife.netlify.app) <br>
-> A small set of mental health tools to help people out. Currently consists of a helplines page and coming soon, resources for depression, anxiety and more.
+> A small set of mental health tools to help people out. Currently consists of a helplines page and coming soon, resources for depression, anxiety and more. <br>
+> Built with **SvelteKit**, **TypeScript** and **SCSS**.
+
+Because we all know SveleKit is the best.
