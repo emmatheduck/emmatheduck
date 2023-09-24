@@ -28,7 +28,7 @@
 ### **🦀 projects & things i've made**
 > [moonlight](https://moonlight-planner.netlify.app) <br>
 > A world-building tool for writers and other creatives to organise their characters, locations, countries, and many more tools, all built into a convenient, free, and easy-to-use website. <br>
-> Built using **SvelteKit**, **TypeScript**, **SCSS**, and **AppWrite**
+> Built using **SvelteKit**, **TypeScript**, **SCSS**, and **SupaBase**
 
 > [typewriter](https://typewriterr.netlify.app) <br>
 > A website to share your stories with the world, akin to Wattpad or Quotev. <br>
