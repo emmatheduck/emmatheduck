@@ -11,6 +11,7 @@
 > [Tailwind CSS](https://tailwindcss.com) <br>
 > [Svelte](https://svelte.dev) & [SvelteKit](https://kit.svelte.dev) <br>
 > [PocketBase](https://pocketbase.io) - Database / Backend <br>
+> [Supabase](https://supabase.com) - Database / Backend <br>
 
 
 ### **✨ things i'm learning**
@@ -18,19 +19,20 @@
 > [SolidJS](https://solidjs.com/) <br>
 > [Qwik](https://qwik.builder.io/) <br>
 > [Alpine.js](https://alpinejs.dev/) <br>
-> [Supabase](https://supabase.com) - Database / Backend <br>
 > [Firebase](https://firebase.google.com/) - Database / Backend <br>
 > [Tauri](https://tauri.app) - Desktop Development <br>
 > [Rust](https://rustlang.org) <br>
 > [AppWrite](https://appwrite.io) - Database / Backend <br>
+> SQLite
+> PostgreSQL
 
 
 ### **🦀 projects & things i've made**
-> [moonlight](https://moonlight-planner.netlify.app) <br>
+> [moonlight](https://moonlight-planner.netlify.app) - on hold <br>
 > A world-building tool for writers and other creatives to organise their characters, locations, countries, and many more tools, all built into a convenient, free, and easy-to-use website. <br>
 > Built using **SvelteKit**, **TypeScript**, **SCSS**, and **SupaBase**
 
-> [typewriter](https://typewriterr.netlify.app) <br>
+> [typewriter](https://typewriterr.netlify.app) - Really super unfinished <br>
 > A website to share your stories with the world, akin to Wattpad or Quotev. <br>
 > Built with **SvelteKit**, **TypeScript**, and **PocketBase**.
 
