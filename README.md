@@ -23,7 +23,7 @@
 > [Tauri](https://tauri.app) - Desktop Development <br>
 > [Rust](https://rustlang.org) <br>
 > [AppWrite](https://appwrite.io) - Database / Backend <br>
-> SQLite
+> SQLite <br>
 > PostgreSQL
 
 
@@ -31,11 +31,7 @@
 > [moonlight](https://moonlight-planner.netlify.app) - on hold <br>
 > A world-building tool for writers and other creatives to organise their characters, locations, countries, and many more tools, all built into a convenient, free, and easy-to-use website. <br>
 > Built using **SvelteKit**, **TypeScript**, **SCSS**, and **SupaBase**
-
-> [typewriter](https://typewriterr.netlify.app) - Really super unfinished <br>
-> A website to share your stories with the world, akin to Wattpad or Quotev. <br>
-> Built with **SvelteKit**, **TypeScript**, and **PocketBase**.
-
+> 
 > [calm life](https://calmlife.netlify.app) <br>
 > A small set of mental health tools to help people out. Currently consists of a helplines page and coming soon, resources for depression, anxiety and more. <br>
 > Built with **SvelteKit**, **TypeScript** and **SCSS**.
