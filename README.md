@@ -29,7 +29,6 @@
 > [AppWrite](https://appwrite.io) - Database / Backend <br>
 > SQLite <br>
 > PostgreSQL <br>
-> Thanks to work, I'm also learning these things
 > Citrix <br>
 > AWS <br>
 > Powershell <br>
@@ -38,6 +37,9 @@
 ### **🦀 projects i'm working on**
 > [moonlight](https://moonlight-planner.netlify.app) <br>
 > A world-building tool for writers and other creatives to organise their characters, locations, countries, and many more tools, all built into a convenient, free, and easy-to-use website.
+
+> [moonlight - online beta](https://mnlgt.netlify.app) <br>
+> An online-built version of Moonlight and accounts to synchronise data.
 
 > [calm life](https://calmlife.netlify.app) <br>
 > A small set of mental health tools to help people out. Currently consists of a helplines page and coming soon, resources for depression, anxiety and more.
