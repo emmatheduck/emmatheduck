@@ -18,15 +18,13 @@
 > [Freshservice](https://www.freshworks.com/freshservice/) - Helpdesk Software <br>
 
 
+
 ### **✨ things i'm learning**
-> [Vue.js](https://vuejs.org/) <br>
 > [SolidJS](https://solidjs.com/) <br>
 > [Qwik](https://qwik.builder.io/) <br>
 > [Alpine.js](https://alpinejs.dev/) <br>
-> [Firebase](https://firebase.google.com/) - Database / Backend <br>
 > [Tauri](https://tauri.app) - Desktop Development <br>
 > [Rust](https://rustlang.org) <br>
-> [AppWrite](https://appwrite.io) - Database / Backend <br>
 > SQLite <br>
 > PostgreSQL <br>
 > Citrix <br>
@@ -34,9 +32,14 @@
 > Powershell <br>
 > SQL <br>
 
+### **🪲 partial knowledge**
+> [Firebase](https://firebase.google.com/) - Database / Backend <br>
+> [Vue.js](https://vuejs.org/) <br>
+> [AppWrite](https://appwrite.io) - Database / Backend <br>
+
 
 ### **🦀 projects i'm working on**
-> [moonlight](https://moonlight-planner.netlify.app) <br>
+> [moonlight](https://tealwriter.com) <br>
 > A world-building tool for writers and other creatives to organise their characters, locations, countries, and many more tools, all built into a convenient, free, and easy-to-use website.
 
 > [typewriter](https://typewriterr.netlify.app) <br>
