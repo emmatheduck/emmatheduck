@@ -32,7 +32,7 @@
 > Powershell <br>
 > SQL <br>
 
-### **🪲 partial knowledge**
+### **🥞 partial knowledge**
 > [Firebase](https://firebase.google.com/) - Database / Backend <br>
 > [Vue.js](https://vuejs.org/) <br>
 > [AppWrite](https://appwrite.io) - Database / Backend <br>
@@ -41,6 +41,3 @@
 ### **🦀 projects i'm working on**
 > [moonlight](https://tealwriter.com) <br>
 > A world-building tool for writers and other creatives to organise their characters, locations, countries, and many more tools, all built into a convenient, free, and easy-to-use website.
-
-> [typewriter](https://typewriterr.netlify.app) <br>
-> A writing sharing website. Currently on hold so that I can focus on Moonlight, because it's wayyy cooler atm.
