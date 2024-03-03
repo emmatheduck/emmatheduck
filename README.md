@@ -15,12 +15,9 @@
 > [Svelte](https://svelte.dev) & [SvelteKit](https://kit.svelte.dev) <br>
 > [PocketBase](https://pocketbase.io) - Database / Backend built on SQLite <br>
 > [Supabase](https://supabase.com) - Database / Backend built on PostreSQL <br>
-> [Freshservice](https://www.freshworks.com/freshservice/) - Helpdesk Software <br>
-
-
+> [Freshservice](https://freshworks.com/freshservice/) - Helpdesk Software <br>
 
 ### **✨ things i'm learning**
-> [SolidJS](https://solidjs.com/) <br>
 > [Qwik](https://qwik.builder.io/) <br>
 > [Alpine.js](https://alpinejs.dev/) <br>
 > [Tauri](https://tauri.app) - Desktop Development <br>
