@@ -36,5 +36,5 @@
 
 
 ### **🦀 projects i'm working on**
-> [moonlight](https://tealwriter.com) <br>
-> A world-building tool for writers and other creatives to organise their characters, locations, countries, and many more tools, all built into a convenient, free, and easy-to-use website.
+> [teal writer](https://tealwriter.com) <br>
+> A world-building tool for writers and other creatives to organise their characters, locations, countries, and many more tools, all built into a convenient, free, and easy-to-use website. Currently on hold because I'm working full time :(
